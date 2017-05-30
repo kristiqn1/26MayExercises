@@ -1,2 +1,2 @@
 # 26MayExercises
-Make conflict!
+We resolved the conflict!
